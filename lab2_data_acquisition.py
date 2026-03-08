@@ -84,4 +84,4 @@ if __name__ == "__main__":
     
     print("\n===========================================")
     print("Experiment completed! Observe the massive reduction in file size.")
-python lab2_data_acquisition.py
+#python lab2_data_acquisition.py
